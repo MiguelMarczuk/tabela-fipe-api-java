@@ -24,7 +24,9 @@ digite um trecho do carro que vc gostaria de pesquisar
 > palio
 
 todos veiculos filtrados com avaliação por ano:
+
 Veiculos{valor='R$ 25.000,00', marca='Fiat', modelo='Palio 1.0', ano=2018, tipoCombustivel='Flex'}
+
 Veiculos{valor='R$ 27.000,00', marca='Fiat', modelo='Palio 1.6', ano=2019, tipoCombustivel='Flex'}
 
 
